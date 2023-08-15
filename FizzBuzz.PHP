@@ -8,8 +8,7 @@ for($i = 1; $i <= 100; $i++ )
     echo 'Buzz!';
 }elseif($i % 3 ===0){
     echo  'Fizz!'; }
-    elseif($i != '$i % 3=== 0 && $i % 5=== 0'
-){echo $i;}
+   
 echo'<br>';
 }
 
